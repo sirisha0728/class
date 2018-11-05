@@ -6,7 +6,7 @@
 1794810 Harsimran "Life is beautiful"
 
 
-1794858 Sirisha "Life sucks"
+1794858 Sirisha "Everything u imagine is real"
 
 1794750 Yograj "lol"
 
@@ -19,12 +19,5 @@
 
 
 1794821  simran "Life is great"
-
-
-1795075 Aravind "I love those who can smile in trouble"
-
-1793897  baljeet "snow is coming"
-
-
 
 
